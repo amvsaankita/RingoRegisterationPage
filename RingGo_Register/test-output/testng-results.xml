@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-06-30T19:43:43Z" name="Default suite" finished-at="2019-06-30T19:44:56Z" duration-ms="73493">
+    <groups>
+    </groups>
+    <test started-at="2019-06-30T19:43:43Z" name="Default test" finished-at="2019-06-30T19:44:56Z" duration-ms="73493">
+      <class name="com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:43:43Z" name="setup" finished-at="2019-06-30T19:43:50Z" duration-ms="7829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ValidationForMandatoryField()[pri:1, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:43:50Z" name="ValidationForMandatoryField" finished-at="2019-06-30T19:43:56Z" duration-ms="5773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidationForMandatoryField -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:43:56Z" name="getResult" finished-at="2019-06-30T19:43:56Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidationForMandatoryField status=SUCCESS method=TS_02_Register_ValidationForNegativecases.ValidationForMandatoryField()[pri:1, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="validationForMandatoryPassword()[pri:2, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:43:56Z" name="validationForMandatoryPassword" finished-at="2019-06-30T19:44:02Z" duration-ms="5784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationForMandatoryPassword -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:02Z" name="getResult" finished-at="2019-06-30T19:44:02Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validationForMandatoryPassword status=SUCCESS method=TS_02_Register_ValidationForNegativecases.validationForMandatoryPassword()[pri:2, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="validationForMandatoryMobileSpecialCharStartsWithPlus()[pri:3, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:02Z" name="validationForMandatoryMobileSpecialCharStartsWithPlus" finished-at="2019-06-30T19:44:07Z" duration-ms="4694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationForMandatoryMobileSpecialCharStartsWithPlus -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:07Z" name="getResult" finished-at="2019-06-30T19:44:07Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validationForMandatoryMobileSpecialCharStartsWithPlus status=SUCCESS method=TS_02_Register_ValidationForNegativecases.validationForMandatoryMobileSpecialCharStartsWithPlus()[pri:3, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="validationForMandatoryMobileLowerRange()[pri:4, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:07Z" name="validationForMandatoryMobileLowerRange" finished-at="2019-06-30T19:44:13Z" duration-ms="5912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationForMandatoryMobileLowerRange -->
+        <test-method signature="validationForMandatoryMobileHigherRange()[pri:5, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:13Z" name="validationForMandatoryMobileHigherRange" finished-at="2019-06-30T19:44:22Z" duration-ms="9672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationForMandatoryMobileHigherRange -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:13Z" name="getResult" finished-at="2019-06-30T19:44:13Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validationForMandatoryMobileLowerRange status=SUCCESS method=TS_02_Register_ValidationForNegativecases.validationForMandatoryMobileLowerRange()[pri:4, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:22Z" name="getResult" finished-at="2019-06-30T19:44:22Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validationForMandatoryMobileHigherRange status=SUCCESS method=TS_02_Register_ValidationForNegativecases.validationForMandatoryMobileHigherRange()[pri:5, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="validationForMandatoryMobileSpclCharAndAlpha()[pri:6, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:22Z" name="validationForMandatoryMobileSpclCharAndAlpha" finished-at="2019-06-30T19:44:32Z" duration-ms="9777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationForMandatoryMobileSpclCharAndAlpha -->
+        <test-method signature="validationForMandatoryEmail()[pri:7, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:32Z" name="validationForMandatoryEmail" finished-at="2019-06-30T19:44:40Z" duration-ms="7799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationForMandatoryEmail -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:32Z" name="getResult" finished-at="2019-06-30T19:44:32Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validationForMandatoryMobileSpclCharAndAlpha status=SUCCESS method=TS_02_Register_ValidationForNegativecases.validationForMandatoryMobileSpclCharAndAlpha()[pri:6, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:40Z" name="getResult" finished-at="2019-06-30T19:44:40Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validationForMandatoryEmail status=SUCCESS method=TS_02_Register_ValidationForNegativecases.validationForMandatoryEmail()[pri:7, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="validationForMandatoryEmail_2()[pri:8, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:40Z" name="validationForMandatoryEmail_2" finished-at="2019-06-30T19:44:45Z" duration-ms="5617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationForMandatoryEmail_2 -->
+        <test-method signature="validation_For_Mandatory_Mobile_Special_Char_Starts_With_Neg()[pri:9, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:45Z" name="validation_For_Mandatory_Mobile_Special_Char_Starts_With_Neg" finished-at="2019-06-30T19:44:55Z" duration-ms="9520" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='field-Member_CLI']/following-sibling::span"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=75.0.3770.8 (681f24ea911fe754973dda2fdc6d2a2e159dd300-refs/branch-heads/3770@{#40}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'adhir', ip: '10.0.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:62270}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.8 (681f24ea911fe754973dda2fdc6d2a2e159dd300-refs/branch-heads/3770@{#40}), userDataDir=C:\Users\ankita\AppData\Local\Temp\scoped_dir25248_2974}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 213e235a78d24ad69b21eb31a069133c
+*** Element info: {Using=xpath, value=//input[@id='field-Member_CLI']/following-sibling::span}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='field-Member_CLI']/following-sibling::span"}
+  (Session info: chrome=75.0.3770.100)
+  (Driver info: chromedriver=75.0.3770.8 (681f24ea911fe754973dda2fdc6d2a2e159dd300-refs/branch-heads/3770@{#40}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'adhir', ip: '10.0.0.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:62270}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=75.0.3770.8 (681f24ea911fe754973dda2fdc6d2a2e159dd300-refs/branch-heads/3770@{#40}), userDataDir=C:\Users\ankita\AppData\Local\Temp\scoped_dir25248_2974}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.100, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 213e235a78d24ad69b21eb31a069133c
+*** Element info: {Using=xpath, value=//input[@id='field-Member_CLI']/following-sibling::span}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases.validation_For_Mandatory_Mobile_Special_Char_Starts_With_Neg(TS_02_Register_ValidationForNegativecases.java:119)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validation_For_Mandatory_Mobile_Special_Char_Starts_With_Neg -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:45Z" name="getResult" finished-at="2019-06-30T19:44:45Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validationForMandatoryEmail_2 status=SUCCESS method=TS_02_Register_ValidationForNegativecases.validationForMandatoryEmail_2()[pri:8, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:55Z" name="getResult" finished-at="2019-06-30T19:44:55Z" duration-ms="461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validation_For_Mandatory_Mobile_Special_Char_Starts_With_Neg status=FAILURE method=TS_02_Register_ValidationForNegativecases.validation_For_Mandatory_Mobile_Special_Char_Starts_With_Neg()[pri:9, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="closeSetup()[pri:0, instance:com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases@1a18644]" started-at="2019-06-30T19:44:55Z" name="closeSetup" finished-at="2019-06-30T19:44:56Z" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetup -->
+      </class> <!-- com.RingGo.TestScript.TS_02_Register_ValidationForNegativecases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
